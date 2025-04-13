@@ -2,9 +2,7 @@
 Utilized Power BI to clean, transform, and analyze sales data of a superstore, enhancing data accuracy and reliability.
 Developed and implemented data analysis techniques, specializing in time series analysis, to provide actionable insights and sales forecasting.
 Designed and created interactive Power BI dashboards that effectively visualize sales performance and trends, supporting data-driven decision-making.
-Automated data import, transformation, and reporting processes using Power Query, streamlining workflow and improving efficiency.
 Conducted comprehensive data validation and quality checks to ensure the integrity and consistency of sales data.
 Collaborated with cross-functional teams to identify key metrics and KPIs, translating business requirements into effective data visualizations.
-Leveraged DAX functions to create complex measures and calculated columns, enabling advanced analytics and deeper insights into sales data.
 Delivered timely and accurate sales reports and dashboards, contributing to improved business strategies and increased operational efficiency.
 These points should effectively communicate your skills and experience in Power BI, data analysis, and dashboard creation.
